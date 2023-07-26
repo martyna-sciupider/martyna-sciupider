@@ -1,16 +1,34 @@
-### Hi there 👋
+# Hello World
+I'm a dynamic and meticulous individual who is ready to take on the
+next challenge in my career. I have experience working on
+largescale projects such as Expressway S19 and Highway A2. I am
+not afraid of challenges and always strive to learn quickly in order to
+effectively navigate new situations. My determination and diligent
+approach to achieving goals enable me to successfully accomplish
+tasks. I am prepared for new challenges and confident that I can
+make a positive contribution to the next project.
+After testing a program needed in the current industry, I became
+more interested in the subject of testing. Therefore, I upgraded my
+qualifications with knowledge of ISTQB Foundation Level confirmed
+by a certificate. I continued my education by completing Postman
+and PostrgeSQL training courses obtaining certificates.
 
-<!--
-**martyna-sciupider/martyna-sciupider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Courses and certificates 
+- ISTQB - Foundation Level
+- Postman - REST API
+- PostgreSQL
+- Basics of manual software testing
+- Beginner's GIT Course
 
-Here are some ideas to get you started:
+# Software skilla
+- PostgreSQL
+- Postman
+- qTest
+- Jira
+- Confluence
+- Xray
+- Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Connect with me
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/martyna-was/)
+[<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />]( https://www.facebook.com/martyna.was.sciupider)
