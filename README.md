@@ -19,6 +19,7 @@ and PostrgeSQL training courses obtaining certificates.
 - PostgreSQL
 - Basics of manual software testing
 - Beginner's GIT Course
+- Course JMeter - Step by Step for Beginners  -  in progress
 
 # Software skilla
 - PostgreSQL
