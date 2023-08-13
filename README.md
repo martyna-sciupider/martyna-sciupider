@@ -27,7 +27,7 @@ and PostrgeSQL training courses obtaining certificates. </p>
 - Beginner's GIT Course
 - Course JMeter - Step by Step for Beginners  -  in progress
 
-# Software skilla
+# Software skills
 - PostgreSQL
 - Postman
 - qTest
