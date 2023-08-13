@@ -1,4 +1,7 @@
 # Hello World
+I invite you to familiarize yourself with my CV written in HTML language 
+https://martyna-sciupider-cv.netlify.app/
+
 I'm a dynamic and meticulous individual who is ready to take on the
 next challenge in my career. I have experience working on
 largescale projects such as Expressway S19 and Highway A2. I am
@@ -29,6 +32,7 @@ and PostrgeSQL training courses obtaining certificates.
 - Confluence
 - Xray
 - Git
+- HTML + CSS
 
 # Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/martyna-was/)
