@@ -5,7 +5,7 @@
 <h2 align="center">I invite you to familiarize yourself with my CV written in HTML language  </h2>
 <h2 align="center"> https://martyna-sciupider-cv.netlify.app/ </h2>
 
-I'm a dynamic and meticulous individual who is ready to take on the
+<p align="justify"> I'm a dynamic and meticulous individual who is ready to take on the
 next challenge in my career. I have experience working on
 largescale projects such as Expressway S19 and Highway A2. I am
 not afraid of challenges and always strive to learn quickly in order to
@@ -17,7 +17,7 @@ After testing a program needed in the current industry, I became
 more interested in the subject of testing. Therefore, I upgraded my
 qualifications with knowledge of ISTQB Foundation Level confirmed
 by a certificate. I continued my education by completing Postman
-and PostrgeSQL training courses obtaining certificates.
+and PostrgeSQL training courses obtaining certificates. </p>
 
 # Courses and certificates 
 - ISTQB - Foundation Level
