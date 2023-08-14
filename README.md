@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">hey there 👋</h1>
 <h2 align="center">I invite you to familiarize yourself with my CV written in HTML language  </h2>
-<h2 align="center"> https://martyna-sciupider-cv.netlify.app/ </h2>
+<h2 align="center"> https://martyna-sciupider-cv.netlify.app// </h2>
 
 <p align="justify"> I'm a dynamic and meticulous individual who is ready to take on the
 next challenge in my career. I have experience working on
